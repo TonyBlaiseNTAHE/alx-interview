@@ -3,6 +3,7 @@
 0-locakboxes module
 """
 
+
 def canUnlockAll(boxes):
     """ A methods that determines if all the boxes can be opened"""
     n = len(boxes)
